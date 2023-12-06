@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+
+.rettangolo {
+	width:900px;
+	height:620px;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,.5);
+    margin-top: 1px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+
+.totale {
+    padding-top: 20px;
+    padding-bottom: 7px;
+}
+
+.logo {
+    width: 300px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.testo1 {
+    color: white;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(36, 255, 36);
+}
+
+.testo2 {
+    bottom: 15px;
+    margin: 7px;
+}
+
+.rettangoloverde1 {
+    width: 750px;
+    height: 40px;
+    background:rgb(36, 255, 36);
+    margin: auto;
+    padding: 9px;
+}
+
+.tasti {
+    display: inline-block;
+}
+
+.p1 {
+    width: 50px;
+    height:19px;
+    font-size: 10px;
+}
+
+.p2 {
+    width: 112px;
+    height:19px;
+    font-size: 10px;
+}
+
+.p3 {
+    width: 72px;
+    height:19px;
+    font-size: 10px;
+}
+
+.gino1 {
+    width: 750px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-top: 20px;
+    margin-right: 75px;
+}
+
+.gino22 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h3.testodigino {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+    font-weight: lighter;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.orangerett {
+    width: 250px;
+    height: 25px;
+    background-color: orange;
+    padding: 9px;
+    border-radius: 4px;
+}
+
+.mike1 {
+    width: 750px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-top: 75px;
+    margin-right: 75px;
+}
+
+.mike24 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h3.testodimike {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+    font-weight: lighter;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.verderett {
+    width: 450px;
+    height: 25px;
+    background-color: green;
+    padding: 9px;
+    border-radius: 4px;
+}
+
+.fede1 {
+    width: 750px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-top: 75px;
+    margin-right: 75px;
+}
+
+.fede154 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h3.testodifede {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+    font-weight: lighter;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.rossorett {
+    width: 140px;
+    height: 25px;
+    background-color: rgb(183, 53, 53);
+    padding: 9px;
+    border-radius: 4px;
+}
